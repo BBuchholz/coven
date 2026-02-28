@@ -11,11 +11,11 @@
     "test:watch": "vitest src"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.0.2",
+    "@sveltejs/vite-plugin-svelte": "^2.5.3",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/svelte": "^3.2.2",
+    "@testing-library/svelte": "^5.3.1",
     "jsdom": "^21.1.0",
-    "svelte": "^3.54.0",
+    "svelte": "^5.53.6",
     "vite": "^4.0.4",
     "vitest": "^0.27.3"
   }
